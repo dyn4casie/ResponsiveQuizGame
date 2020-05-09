@@ -27,10 +27,12 @@
 
 .correct {
     background-color: #28a742;
+    color: white;
 }
 
 .incorrect {
     background-color: #dc3542;
+    color: white;
 }
 
 
